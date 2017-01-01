@@ -1,0 +1,74 @@
+%!Adobe-FontList 1.16
+%Locale:0x40c
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ACaslonPro-Bold
+FamilyName:Adobe Caslon Pro
+StyleName:Bold
+FullName:Adobe Caslon Pro Bold
+MenuName:Adobe Caslon Pro Bold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Mike Down\Desktop\LMPE-Marrakech Projet\Font\ACaslonPro-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:143368
+FileModTime:1327599482
+WeightClass:700
+WidthClass:5
+AngleClass:0
+DesignSize:120
+NameArray:0,Mac,4,Adobe Caslon Pro Bold
+NameArray:0,Win,1,Adobe Caslon Pro Bold
+NameArray:0,Win,16,Adobe Caslon Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ACaslonPro-SemiboldItalic
+FamilyName:Adobe Caslon Pro
+StyleName:Semibold Italic
+FullName:Adobe Caslon Pro Semibold Italic
+MenuName:Adobe Caslon Pro
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\Users\Mike Down\Desktop\LMPE-Marrakech Projet\Font\ACaslonPro-SemiboldItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:172312
+FileModTime:1327599482
+WeightClass:600
+WidthClass:5
+AngleClass:1
+DesignSize:120
+NameArray:0,Mac,18,Adobe Caslon Pro SmBd Italic
+NameArray:0,Mac,4,Adobe Caslon Pro Semibold Italic
+NameArray:0,Win,1,Adobe Caslon Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Child's-Play
+FamilyName:Child's Play
+StyleName:Normal
+FullName:Child's Play
+MenuName:Child's Play
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Mike Down\Desktop\LMPE-Marrakech Projet\Font\CHILD.TTF
+DataFormat:sfntData
+FileLength:24164
+FileModTime:731596400
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Child's Play
+NameArray:0,Win,1,Child's Play
+%EndFont
+
